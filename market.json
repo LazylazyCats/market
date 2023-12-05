@@ -1,0 +1,15 @@
+{
+    "name": "Market",
+    "description": "market market",
+    "image": "https://raw.githubusercontent.com/LazylazyCats/market/main/base.png",
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": 2023
+      },
+      {
+        "trait_type": "Type",
+        "value": 1
+      }
+    ]
+  }
