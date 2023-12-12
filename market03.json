@@ -1,0 +1,19 @@
+{
+    "name": "LazyCat",
+    "description": "i'm lazy",
+    "image": "https://raw.githubusercontent.com/LazylazyCats/market/main/base03.png",
+    "attributes": [
+      {
+        "trait_type": "Year",
+        "value": 2023
+      },
+      {
+        "trait_type": "Type",
+        "value": "cat"
+      },
+      {
+        "trait_type": "color",
+        "value": "pink"
+      }
+    ]
+  }
